@@ -66,6 +66,14 @@ img {
 .recipie {
     margin: 50px 0;
 }
+.recipie h3,
+.recipie p {
+    width: 80%;
+    text-align: justify;
+    margin: auto;
+}
+
+
 .bam {
     width: 33.33%;
     text-align: center;
